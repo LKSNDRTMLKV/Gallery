@@ -1,2 +1,0 @@
-# Gallery
-Gallery app !
